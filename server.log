@@ -1,0 +1,6 @@
+2024-01-15 10:00:00 INFO Server started
+2024-01-15 10:00:05 INFO User login admin
+2024-01-15 10:00:10 ERROR Database connection failed
+2024-01-15 10:00:15 WARNING Low memory
+2024-01-15 10:00:20 ERROR File not found config.txt
+2024-01-15 10:00:25 INFO User logout admin
