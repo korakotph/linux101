@@ -1,0 +1,17 @@
+📊 Server Health Report
+วันที่: Sat Aug 30 03:35:53 UTC 2025
+===============================
+Disk:
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          32G   11G   19G  37% /
+-------------------------------
+Memory:
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.9Gi       190Mi        61Mi       6.0Gi       5.9Gi
+Swap:             0B          0B          0B
+-------------------------------
+Services:
+nginx: unrecognized service
+-------------------------------
+mysql: unrecognized service
+-------------------------------
